@@ -7718,7 +7718,7 @@
 				<category name="Grenade Rarities">
 					<category name="DLC Legendary Grenade">
 						<category name="Meganade">
-							<code profiles="default">set GD_Ma_GrenadeMods.A_Item_Legendary.GrenadeMod_Meganade BaseRarity (BaseValueConstant=501.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+							<code profiles="default">set GD_Ma_GrenadeMods.A_Item_Legendary.GrenadeMod_Meganade BaseRarity (BaseValueConstant=75.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
 						</category>
 					</category>
 					<category name="Aftermarket (Unique) Grenades">
@@ -9870,7 +9870,7 @@ set GD_Shields.Titles.Title_Chimera02_Haymaker Rarity (BaseValueConstant=45.0000
 set GD_Shields.Titles.Title_Booster01_BoosterShieldMoxxisSlammer Rarity (BaseValueConstant=55.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
 set GD_Cork_Shields.Titles.Title_RapidRelease Rarity (BaseValueConstant=45.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
 set GD_Shields.Titles.Title_LaserNova01_Sunshine Rarity (BaseValueConstant=45.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
-set GD_Ma_GrenadeMods.A_Item_Legendary.GrenadeMod_Meganade BaseRarity (BaseValueConstant=501.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Ma_GrenadeMods.A_Item_Legendary.GrenadeMod_Meganade BaseRarity (BaseValueConstant=75.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
 set GD_GrenadeMods.Title.Title_BabyBoomer Rarity (BaseValueConstant=45.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
 set GD_Ma_GrenadeMods.Title.Title_DataScrubber Rarity (BaseValueConstant=45.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
 set GD_Cork_GrenadeMods.Title.Title_KissOfDeath Rarity (BaseValueConstant=55.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
